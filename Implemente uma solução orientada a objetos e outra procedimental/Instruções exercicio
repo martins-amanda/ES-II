@@ -1,5 +1,0 @@
-Instruções:
-O problema para o qual você deve implementar a solução é o cálculo de salário de funcionários horistas.
-Um funcionário horista trabalha uma certa quantidade de horas e recebe um determinado valor por hora.
-Ele ainda tem um nome e um CPF.
-O salário dele é a multiplicação da quantidade de horas trabalhadas pelo valor da hora.
